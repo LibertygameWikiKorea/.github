@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5f2f515d-b8fb-44fa-9e2a-e23630946891)# 리버티게임은 무슨 사이트인가요?
+# 리버티게임은 무슨 사이트인가요?
 <div style="text-align:center;">
   <img src="/Libertygame_logo.svg" />
 </div>
